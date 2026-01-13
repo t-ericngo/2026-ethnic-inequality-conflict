@@ -5,7 +5,8 @@ The repo includes
 * Stata scripts for the analysis of data in the main manuscript as well as supplementary analyses in the appendix.
 * Data files for statistical analysis
 * Working paper/manuscript
-* Appendix 
+* Appendix
+** This is where additional, more advanced analyses are actually showed and discussed
 
 If you have any questions or requests, please reach out to me at
 * Email: tu-ngo@uiowa.edu
