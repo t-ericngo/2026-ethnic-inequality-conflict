@@ -6,7 +6,7 @@ The repo includes
 * Data files for statistical analysis
 * Working paper/manuscript
 * Appendix
-** This is where additional, more advanced analyses are actually showed and discussed
+  * This is where additional, more advanced analyses are actually showed and discussed
 
 If you have any questions or requests, please reach out to me at
 * Email: tu-ngo@uiowa.edu
