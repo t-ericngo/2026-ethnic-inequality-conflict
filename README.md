@@ -9,4 +9,4 @@ The repo includes
 
 If you have any questions or requests, please reach out to me at
 * Email: tu-ngo@uiowa.edu
-* Website: t-ericngo.github.io 
+* Website: [t-ericngo.github.io](https://t-ericngo.github.io/) 
